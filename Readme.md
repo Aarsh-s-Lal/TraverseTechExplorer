@@ -24,7 +24,7 @@ Backend: Java
 2)ADDING VERTICES
 
 
-![image alt]()
+![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/da0dc31f07220c17989194af75da1f78e08d767b/images/addVertices.png)
 
 
 
