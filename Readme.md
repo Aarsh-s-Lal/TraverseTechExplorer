@@ -15,20 +15,40 @@ Frontend: HTML, CSS, ReactJS
 Backend: Java
 
 
+
+
+
 1)THIS IS HOW THE WEBSITE LOOKS LIKE : 
+
+
+
 
 
 ![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/d69e18b58d15b223918d964b907a5f794f1347ea/images/front.png)
 
 
+
+
+
+
+
 2)ADDING VERTICES
+
+
+
 
 
 ![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/da0dc31f07220c17989194af75da1f78e08d767b/images/addVertices.png)
 
 
 
+
+
+
 3)ADDING  EDGES
+
+
+
 
 
 
@@ -37,7 +57,13 @@ Backend: Java
 
 
 
+
+
+
 4)THIS IS  THE  CUSTOMISED GRAPH CREATED BY THE USER
+
+
+
 
 
 
@@ -45,10 +71,22 @@ Backend: Java
 
 
 
+
+
+
+
 5) APPLYING  DIJKSTRA ALGORITHM TO OUR CUSTOMIZED GRAPH
 
 
+
+
+
+
  ![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/396ead5ea637f5530b9d4d72314beb0f2ed51e9a/images/dijkstra.png)
+
+
+
+
 
 
 
@@ -57,4 +95,8 @@ Backend: Java
 
 
 
-![image alt]()
+
+
+
+
+![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/6e536afde29df1c6e0726b5ce32761d30bba5bea/images/shortestPath.png)
