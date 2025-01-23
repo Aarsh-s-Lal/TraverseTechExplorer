@@ -41,7 +41,7 @@ Backend: Java
 
 
 
-![image alt]()
+![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/ee543ab990c7a49398daebc38551b95dcc1bc1c1/images/Graph.png)
 
 
 
