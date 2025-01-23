@@ -48,7 +48,7 @@ Backend: Java
 5) APPLYING  DIJKSTRA ALGORITHM TO OUR CUSTOMIZED GRAPH
 
 
- ![image alt]()
+ ![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/396ead5ea637f5530b9d4d72314beb0f2ed51e9a/images/dijkstra.png)
 
 
 
