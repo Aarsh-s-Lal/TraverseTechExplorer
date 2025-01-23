@@ -18,7 +18,7 @@ Backend: Java
 1)THIS IS HOW THE WEBSITE LOOKS LIKE : 
 
 
-![image alt]()
+![image alt](https://github.com/Aarsh-s-Lal/TraverseTechExplorer/blob/d69e18b58d15b223918d964b907a5f794f1347ea/images/front.png)
 
 
 2)ADDING VERTICES
